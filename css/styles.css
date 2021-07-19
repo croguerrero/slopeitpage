@@ -11763,7 +11763,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: #11151b;
 }
 
 .section-title h2::before {
@@ -11783,7 +11783,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #47b2e4;
+  background: #0d1011;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -12351,7 +12351,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #37517e;
+  color: #070707;
 }
 
 .team .member span {
